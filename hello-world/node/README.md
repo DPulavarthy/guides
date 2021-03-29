@@ -7,7 +7,7 @@
 git clone https://github.com/DPulavarthy/guides/tree/smol-projects
 ```
 
-`2.)` Install Node.JS from [here](https://nodejs.org/en/)
+`2.)` Install Node.JS from [here](https://nodejs.org/en/).
 
 ### Usage
 
