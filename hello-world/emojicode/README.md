@@ -20,10 +20,13 @@ git clone https://github.com/DPulavarthy/guides/tree/smol-projects
 ### Output
 
 Code - The code of the Emojicode Hello World program.
+
 ![code](assets/code.png)
 
 Compile - Compiling the code to run.
+
 ![compile](assets/compile.png)
 
 Run - Running the code.
+
 ![run](assets/run.png)
