@@ -13,6 +13,17 @@ git clone https://github.com/DPulavarthy/guides/tree/smol-projects
 
 `1.)` Open the 'emojicode' folder in terminal once cloned `cd hello-world\emojicode`.
 
-`1.)` Compile the project by running `emojicodec index.emojic`.
+`2.)` Compile the project by running `emojicodec index.emojic`.
 
-`2.)` Run the project with `./index`.
+`3.)` Run the project with `./index`.
+
+### Output
+
+Code - The code of the Emojicode Hello World program.
+[code](assets/code.png)
+
+Compile - Compiling the code to run.
+[compile](assets/compile.png)
+
+Run - Running the code.
+[run](assets/run.png)
